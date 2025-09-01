@@ -1,1 +1,1 @@
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegonzalez&show_icons=true&theme=tokyonight&count_private=true&hide=stars&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgegonzalez&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
