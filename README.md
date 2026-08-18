@@ -10,7 +10,7 @@ I turn hard problems into shipped software. Engineering Lead at [Rewst](https://
 
 ### Open source
 
-- **[rice](https://github.com/jorgegonzalez/rice)** — a modern, feature-rich system information tool written in Rust.
+- **[rice](https://gitlab.com/rafigonzalez/rice)** — a modern, feature-rich system information tool written in Rust.
 - **[beginner-projects](https://github.com/jorgegonzalez/beginner-projects)** — a curated list of projects for people learning to code.
 
 ### Elsewhere
