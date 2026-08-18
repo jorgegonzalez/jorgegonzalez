@@ -15,4 +15,4 @@ I turn hard problems into shipped software. Engineering Lead at [Rewst](https://
 
 ### Elsewhere
 
-[jorgegonzalez.io](https://jorgegonzalez.io) · [LinkedIn](https://www.linkedin.com/in/7cf303464fb4/) · [Buy me a coffee](https://buymeacoffee.com/jorgegonzalez)
+[jorgegonzalez.io](https://jorgegonzalez.io) · [GitLab](https://gitlab.com/rafigonzalez) · [LinkedIn](https://www.linkedin.com/in/7cf303464fb4/) · [Buy me a coffee](https://buymeacoffee.com/jorgegonzalez)
